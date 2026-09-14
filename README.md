@@ -31,12 +31,17 @@
 | - | GAIN | 悬空，默认音量；
 | - | OUT+ / OUT- | 接喇叭两根线 |
 
-## 硬件接线示意图
+## ESP32supermini图
 
 <div align="center">
 <img src="assets/esp32supermini.png" width="720"/>
 </div>
 
+## 硬件接线示意图
+
+<div align="center">
+<img src="assets/接线.jpg" width="720"/>
+</div>
 
 ### 按键
 板载BOOT按键 → GPIO9，录音触发按键，**无需额外外接按键**
