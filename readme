@@ -32,6 +32,7 @@
 | - | OUT+ / OUT- | 接喇叭两根线 |
 
 ## 硬件接线示意图
+
 <p align="center">
   <img width="600" src="./assets/接线.jpg" alt="ESP32C3+INMP441+MAX98357接线图">
 </p>
