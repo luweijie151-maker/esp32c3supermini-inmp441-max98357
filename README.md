@@ -27,8 +27,8 @@
 | GPIO10 | DIN | I2S音频数据输入 |
 | 3V3 | VIN | 功放供电 |
 | GND | GND | 共地 |
-| - | SD 接3.3V；
-| - | GAIN | 悬空，默认音量；
+| 3.3V| SD |-|；
+| - | GAIN 悬空|，默认音量；
 | - | OUT+ / OUT- | 接喇叭两根线 |
 
 ## ESP32supermini图
