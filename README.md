@@ -1,5 +1,5 @@
 # ESP32-C3 SuperMini 录音回放项目
-基于ESP32-C3 + INMP441(I2S麦克风) + MAX98357A(I2S功放)
+基于ESP32-C3supermini + INMP441(I2S麦克风) + MAX98357A(I2S功放)
 功能：按住板载BOOT按键录音，松开按键自动回放录音，最长录制3秒。
 
 ## 硬件清单
