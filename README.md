@@ -16,7 +16,7 @@
 | GPIO5 | SCK | I2S位时钟 BCLK |
 | GPIO1 | WS | 声道时钟 |
 | GPIO0 | DOUT(SD) | 麦克风音频数据输出 |
-| 3V3 | VDD | 供电（不要接5V） |
+| 3V3 | VDD | 供电 |
 | GND | GND | 共地 |
 
 ### MAX98357A 功放
@@ -28,7 +28,7 @@
 | 3V3 | VIN | 功放供电 |
 | GND | GND | 共地 |
 | 3.3V| SD |-|；
-| - | GAIN 悬空|，默认音量；
+| - | GAIN 悬空|默认音量|；
 | - | OUT+ / OUT- | 接喇叭两根线 |
 
 ## ESP32supermini图
