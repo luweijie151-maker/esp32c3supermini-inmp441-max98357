@@ -36,6 +36,7 @@
 
 ## 软件环境
 - PlatformIO
+- Linux系统
 - Framework: Arduino for ESP32
 - 串口波特率：115200
 
